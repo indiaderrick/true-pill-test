@@ -2,7 +2,7 @@
 
 ### To run the app
 
-Run 'yart start:client' in terminal while inside the my-code folder.s
+Run 'yart start:client' in terminal while inside the my-code folder.
 
 ### Main challenges
 
