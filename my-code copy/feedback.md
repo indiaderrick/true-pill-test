@@ -1,5 +1,9 @@
 ## TruePill Test Comments
 
+### To run the app
+
+Run 'yart start:client' in terminal while inside the my-code folder.s
+
 ### Main challenges
 
 * I found setting up the React environment (to simply render Hello World within the react App) the most challenging part.
