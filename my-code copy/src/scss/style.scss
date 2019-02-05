@@ -1,0 +1,50 @@
+body{
+  background-color: darken(#fefefe, 3%);
+  height: 100vh;
+  padding-top: 30px;
+  table{
+    margin-top: 30px;
+    border: 2px solid darken(#fefefe, 12%) !important;
+    background-color: white;
+    thead{
+      padding: 20px 0 15px 15px;
+      display: flex;
+      width: auto;
+      p{
+        margin-right: 5px;
+      }
+    }
+    .headingsRow{
+      background-color: darken(#fefefe, 5%);
+      color: darken(#fefefe, 40%);
+      td{
+        padding-left: 15px;
+      }
+    }
+    tbody{
+      .line{
+        line-height: 80px;
+        border: 2px solid darken(#fefefe, 12%);
+        .button{
+          vertical-align: center !important;
+          background-color: darken(#fefefe, 5%);
+          color: black;
+          margin-top: 25px;
+        }
+        .button:hover{
+          background-color: skyblue;
+        }
+        th, td{
+          padding-left: 25px;
+        }
+        #circle{
+          height: 15px;
+          margin-right: 25px;
+          width: 15px;
+          display: inline-block;
+          border-radius: 50%;
+        }
+      }
+    }
+    }
+}
